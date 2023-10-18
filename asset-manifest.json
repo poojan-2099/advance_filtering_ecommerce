@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/poojan-2099/advance_filtering_ecommerce/static/css/main.7dae7c87.css",
+    "main.js": "/poojan-2099/advance_filtering_ecommerce/static/js/main.9eaf17ff.js",
+    "index.html": "/poojan-2099/advance_filtering_ecommerce/index.html",
+    "main.7dae7c87.css.map": "/poojan-2099/advance_filtering_ecommerce/static/css/main.7dae7c87.css.map",
+    "main.9eaf17ff.js.map": "/poojan-2099/advance_filtering_ecommerce/static/js/main.9eaf17ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dae7c87.css",
+    "static/js/main.9eaf17ff.js"
+  ]
+}
